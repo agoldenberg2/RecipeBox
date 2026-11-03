@@ -68,7 +68,7 @@ npm run test -- --run
 
 RecipeBox will be deployed using Vercel.
 
-Live Website: Coming soon.
+Website https://recipebox-ten.vercel.app/
 
 ## Known Limitations
 
